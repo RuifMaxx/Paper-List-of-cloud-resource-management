@@ -20,3 +20,5 @@ SOCC 2021,[Parslo: A Gradient Descent-based Approach for Near-optimal Partial SL
 
 Eurosys 2022, [DeepRest: deep resource estimation for interactive microservices](https://dl.acm.org/doi/abs/10.1145/3492321.3519564)
 
+TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)
+
