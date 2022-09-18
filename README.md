@@ -10,7 +10,7 @@ SIGCOMM 2019, [Learning Scheduling Algorithms for Data Processing Clusters](http
 
 OSDI 2020, [FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices](https://www.usenix.org/conference/osdi20/presentation/qiu)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/523974566)
 
-## Analyze and modeling:
+## Analyze and Modeling:
 
 SOCC 2021,[SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/SHOWAR%20Right-Sizing%20And%20Efficient%20Scheduling%20of%20Microservices.pptx)
 
