@@ -20,5 +20,8 @@ SOCC 2021,[Parslo: A Gradient Descent-based Approach for Near-optimal Partial SL
 
 Eurosys 2022, [DeepRest: deep resource estimation for interactive microservices](https://dl.acm.org/doi/abs/10.1145/3492321.3519564)
 
-TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)
+TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
 
+Usenix ICAC 2014, [Adaptive, Model-driven Autoscaling for Cloud Applications](https://www.usenix.org/conference/icac14/technical-sessions/presentation/gandhi)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/560024479)
+
+ACM Comput. Surv. 2018, [Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey](https://dl.acm.org/doi/10.1145/3148149)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/557889153)
