@@ -18,17 +18,17 @@ SOCC 2021,[Parslo: A Gradient Descent-based Approach for Near-optimal Partial SL
 
 Usenix ICAC 2014, [Adaptive, Model-driven Autoscaling for Cloud Applications](https://www.usenix.org/conference/icac14/technical-sessions/presentation/gandhi)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/560024479)
 
+TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
+
 ## Survey:
 
 ACM Comput. Surv. 2018, [Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey](https://dl.acm.org/doi/10.1145/3148149)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/557889153)
 
-## Other Problems:
+## Problems in Large-scale Industry:
 
 OSDI 2016, [Morpheus: Towards Automated SLOs for Enterprise Clusters](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/jyothi)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/529397407)
 
 SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://research.facebook.com/publications/ras-continuously-optimized-region-wide-datacenter-resource-allocation/) ---video:[bilibili](https://www.bilibili.com/video/BV1Kf4y13715/?vd_source=903ff08588b90a29f9c0626c08eb9671)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/RAS%20Continuously%20Optimized%20RegionWide%20Datacenter%20Resource%20Allocation.pptx)
-
-TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
 
 ## To Read:
 
