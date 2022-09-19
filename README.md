@@ -10,15 +10,21 @@ SIGCOMM 2019, [Learning Scheduling Algorithms for Data Processing Clusters](http
 
 OSDI 2020, [FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices](https://www.usenix.org/conference/osdi20/presentation/qiu)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/523974566)
 
-## Analyze and Modeling:
+ICWS 2019, [Microscaler: Automatic Scaling for Microservices with an Online Learning Approach](https://ieeexplore.ieee.org/document/8818401)
 
-SOCC 2021,[SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/SHOWAR%20Right-Sizing%20And%20Efficient%20Scheduling%20of%20Microservices.pptx)
+## Modeling:
 
 SOCC 2021,[Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices](https://dl.acm.org/doi/abs/10.1145/3472883.3486985)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/Parslo%20A%20Gradient%20Descent-based%20Approach%20for%20Near-optimal%20Partial%20SLO%20Allotment%20in%20Microservices.pptx)
 
 Usenix ICAC 2014, [Adaptive, Model-driven Autoscaling for Cloud Applications](https://www.usenix.org/conference/icac14/technical-sessions/presentation/gandhi)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/560024479)
 
 TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
+
+## Analyze
+
+SOCC 2021, [SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/SHOWAR%20Right-Sizing%20And%20Efficient%20Scheduling%20of%20Microservices.pptx)
+
+Information Systems Frontiers 2014, [A cost-aware auto-scaling approach using the workload prediction in service clouds](https://link.springer.com/article/10.1007/s10796-013-9459-0)
 
 ## Survey:
 
