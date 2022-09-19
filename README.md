@@ -33,3 +33,7 @@ SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocatio
 ## To Read:
 
 Eurosys 2022, [DeepRest: deep resource estimation for interactive microservices](https://dl.acm.org/doi/abs/10.1145/3492321.3519564)
+
+Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-intensive containerized applications](https://link.springer.com/article/10.1007/s10586-018-02890-1)
+
+ICAC 2009, [Self-Adaptive and Self-Configured CPU Resource Provisioning for Virtualized Servers Using Kalman Filters](https://dl.acm.org/doi/10.1145/1555228.1555261)
