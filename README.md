@@ -10,7 +10,7 @@ SIGCOMM 2019, [Learning Scheduling Algorithms for Data Processing Clusters](http
 
 OSDI 2020, [FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices](https://www.usenix.org/conference/osdi20/presentation/qiu)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/523974566)
 
-ICWS 2019, [Microscaler: Automatic Scaling for Microservices with an Online Learning Approach](https://ieeexplore.ieee.org/document/8818401)
+ICWS 2019, [Microscaler: Automatic Scaling for Microservices with an Online Learning Approach](https://ieeexplore.ieee.org/document/8818401)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/566033097)
 
 ## Modeling:
 
