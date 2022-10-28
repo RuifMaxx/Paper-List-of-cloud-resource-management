@@ -28,9 +28,12 @@ SOCC 2021, [SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](http
 
 Information Systems Frontiers 2014, [A cost-aware auto-scaling approach using the workload prediction in service clouds](https://link.springer.com/article/10.1007/s10796-013-9459-0)
 
+Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-intensive containerized applications](https://link.springer.com/article/10.1007/s10586-018-02890-1)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/574775706)
+
+
 ## Survey:
 
-ACM Comput. Surv. 2018, [Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey](https://dl.acm.org/doi/10.1145/3148149)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/557889153)
+ACM Comput. Surv. 2018, [Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey](https://dl.acm.org/doi/10.1145/3148149)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/557889153)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
 
 ## Problems in Large-scale Industry:
 
@@ -39,7 +42,5 @@ OSDI 2016, [Morpheus: Towards Automated SLOs for Enterprise Clusters](https://ww
 SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://research.facebook.com/publications/ras-continuously-optimized-region-wide-datacenter-resource-allocation/) ---video:[bilibili](https://www.bilibili.com/video/BV1Kf4y13715/?vd_source=903ff08588b90a29f9c0626c08eb9671)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/RAS%20Continuously%20Optimized%20RegionWide%20Datacenter%20Resource%20Allocation.pptx)
 
 ## To Read:
-
-Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-intensive containerized applications](https://link.springer.com/article/10.1007/s10586-018-02890-1)
 
 ICAC 2009, [Self-Adaptive and Self-Configured CPU Resource Provisioning for Virtualized Servers Using Kalman Filters](https://dl.acm.org/doi/10.1145/1555228.1555261)
