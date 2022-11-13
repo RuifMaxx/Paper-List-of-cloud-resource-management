@@ -14,9 +14,9 @@ ICWS 2019, [Microscaler: Automatic Scaling for Microservices with an Online Lear
 
 Eurosys 2022, [DeepRest: deep resource estimation for interactive microservices](https://dl.acm.org/doi/abs/10.1145/3492321.3519564)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/568706604)
 
-Euro-Par 2022, [Multi-objective Hybrid Autoscaling of Microservices in Kubernetes Clusters](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_15)
+Euro-Par 2022, [Multi-objective Hybrid Autoscaling of Microservices in Kubernetes Clusters](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_15)---Notes:[Markdown](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/Markdown/Multi-objective%20Hybrid%20Autoscaling%20of%20Microservices%20in%20Kubernetes%20Clusters.md)
 
-IEEE CLOUD 2019, Horizontal and Vertical Scaling of Container-based Applications using Reinforcement Learning
+IEEE CLOUD 2019, [Horizontal and Vertical Scaling of Container-based Applications using Reinforcement Learning](https://ieeexplore.ieee.org/document/8814555)---Notes:[Markdown](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/Markdown/Horizontal%20and%20Vertical%20Scaling%20of%20Container-based%20Applications%20using%20Reinforcement%20Learning.md)
 
 ## Modeling:
 
@@ -47,9 +47,9 @@ SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocatio
 
 ## To Read:
 
-[Automated Configuration for Agile Software Environments]()
+IEEE CLOUD 2022, [Automated Configuration for Agile Software Environments](https://ieeexplore.ieee.org/document/9860602)
 
-ACM COMPUT SURV 2022, [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges]()
+ACM COMPUT SURV 2022, [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://dl.acm.org/doi/abs/10.1145/3539606)
 
 CCGrid 2022, [LatEst: Vertical elasticity for millisecond serverless execution](https://ieeexplore.ieee.org/document/9825925/)
 
