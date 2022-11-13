@@ -14,6 +14,10 @@ ICWS 2019, [Microscaler: Automatic Scaling for Microservices with an Online Lear
 
 Eurosys 2022, [DeepRest: deep resource estimation for interactive microservices](https://dl.acm.org/doi/abs/10.1145/3492321.3519564)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/568706604)
 
+Euro-Par 2022, [Multi-objective Hybrid Autoscaling of Microservices in Kubernetes Clusters](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_15)
+
+IEEE CLOUD 2019, Horizontal and Vertical Scaling of Container-based Applications using Reinforcement Learning
+
 ## Modeling:
 
 SOCC 2021,[Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices](https://dl.acm.org/doi/abs/10.1145/3472883.3486985)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/Parslo%20A%20Gradient%20Descent-based%20Approach%20for%20Near-optimal%20Partial%20SLO%20Allotment%20in%20Microservices.pptx)
@@ -42,5 +46,11 @@ OSDI 2016, [Morpheus: Towards Automated SLOs for Enterprise Clusters](https://ww
 SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://research.facebook.com/publications/ras-continuously-optimized-region-wide-datacenter-resource-allocation/) ---video:[bilibili](https://www.bilibili.com/video/BV1Kf4y13715/?vd_source=903ff08588b90a29f9c0626c08eb9671)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/RAS%20Continuously%20Optimized%20RegionWide%20Datacenter%20Resource%20Allocation.pptx)
 
 ## To Read:
+
+[Automated Configuration for Agile Software Environments]()
+
+ACM COMPUT SURV 2022, [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges]()
+
+CCGrid 2022, [LatEst: Vertical elasticity for millisecond serverless execution](https://ieeexplore.ieee.org/document/9825925/)
 
 ICAC 2009, [Self-Adaptive and Self-Configured CPU Resource Provisioning for Virtualized Servers Using Kalman Filters](https://dl.acm.org/doi/10.1145/1555228.1555261)
