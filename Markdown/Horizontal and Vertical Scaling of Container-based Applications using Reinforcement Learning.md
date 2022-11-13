@@ -27,7 +27,7 @@
     * 性能损失 $c_{perf}$，对当应用程序超过响应时间限制 $R_{max}$的惩罚。
     * 运行应用程序的资源成本 $C_{res}$。我们假设成本与应用程序实例数和分配的 CPU 份额成正比。
     * $\begin{aligned} c\left(s, a, s^{\prime}\right)=& w_{\mathrm{adp}} \frac{\mathbb{1}_{\{\text {vertical-scaling }\}} c_{\mathrm{adp}}}{c_{\text {adp }}}+\\ &+w_{\text {perf }} \frac{\mathbb{1}_{\left\{R\left(k+a_1, u^{\prime}, c+a_2\right)>R_{\max }\right\}} c_{\text {perf }}}{c_{\text {perf }}}+\\ &+w_{\text {res }} \frac{\left(k+a_1\right)\left(c+a_2\right) c_{\text {res }}}{K_{\max } \cdot c_{\mathrm{res}}} \\=& w_{\text {adp }} \mathbb{1}_{\{\text {vertical }-\text { scaling }\}}+\\ &+w_{\text {perf }} \mathbb{1}_{\left\{R\left(k+a_1, u^{\prime}, c+a_2\right)>R_{\max }\right\}}+\\ &+w_{\text {res }} \frac{\left(k+a_1\right)\left(c+a_2\right)}{K_{\max }} \end{aligned}$
-    * $1\{ ·\}$是指标函数，$R(k, u, c)$是应用程序的响应时间，$K_{max}$是应用程序的最大实例数，$w_{adp}$等是各项权重。
+    * $1\{ ·\}$ 是指标函数，$R(k, u, c)$ 是应用程序的响应时间，$K_{max}$ 是应用程序的最大实例数，$w_{adp}$ 等是各项权重。
 
 ## Dyna-Q
 
