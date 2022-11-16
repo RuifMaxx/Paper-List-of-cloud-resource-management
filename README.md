@@ -34,10 +34,11 @@ Information Systems Frontiers 2014, [A cost-aware auto-scaling approach using th
 
 Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-intensive containerized applications](https://link.springer.com/article/10.1007/s10586-018-02890-1)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/574775706)
 
-
 ## Survey:
 
 ACM Comput. Surv. 2018, [Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey](https://dl.acm.org/doi/10.1145/3148149)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/557889153)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
+
+ACM COMPUT SURV 2022, [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://dl.acm.org/doi/abs/10.1145/3539606)
 
 ## Problems in Large-scale Industry:
 
@@ -49,7 +50,21 @@ SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocatio
 
 IEEE CLOUD 2022, [Automated Configuration for Agile Software Environments](https://ieeexplore.ieee.org/document/9860602)
 
-ACM COMPUT SURV 2022, [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://dl.acm.org/doi/abs/10.1145/3539606)
+M. Carvalho and D. F. Macedo. 2021. QoE-Aware Container Scheduler for Co-located Cloud Environments. In 2021 IFIP/IEEE Int. Symposium on Integrated Network Management (IM). 286ś294.
+
+N.D. Nguyen, L. Phan, D. Park, S. Kim, and T. Kim. 2020. ElasticFog: Elastic Resource Provisioning in Container-Based Fog Computing. IEEE Access 8 (2020), 183879ś183890.
+
+H. Sami, A. Mourad, H. Otrok, and J. Bentahar. 2020. FScaler: Automatic Resource Scaling of Containers in Fog Clusters Using Reinforcement Learning. In 2020 Int. Wireless Communications and Mobile Computing (IWCMC). 1824ś1829.
+
+L. Bulej, T. Bureš, P. Hnětynka, and D. Khalyeyev. 2021. Self-adaptive K8S Cloud Controller for Time-sensitive Applications. In 2021 47th Euromicro Conf. on Software Engineering and Advanced Applications (SEAA). 166ś169.
+
+C. Chang, S. Yang, E. Yeh, P. Lin, and J. Jeng. 2017. A Kubernetes-Based Monitoring Platform for Dynamic Cloud Resource Provisioning. In GLOBECOM 2017 - 2017 IEEE Global Communications Conf. 1ś6.
+
+M. Rahali, C. Phan, and G. Rubino. 2021. KRS: Kubernetes Resource Scheduler for resilient NFV networks. In GLOBECOM 2021 - IEEE Global Communications Conf. IEEE, Madrid, Spain, 1ś6.
+
+E. Casalicchio. 2019. Container Orchestration: A Survey. Springer Int. Publishing, Cham, 221ś235
+
+Víctor Medel, Omer Rana, José Ángel Bañares, and Unai Arronategui. 2016. Adaptive Application Scheduling under Interference in Kubernetes. In 2016 IEEE/ACM 9th Int. Conf. on Utility and Cloud Computing (UCC). 
 
 CCGrid 2022, [LatEst: Vertical elasticity for millisecond serverless execution](https://ieeexplore.ieee.org/document/9825925/)
 
