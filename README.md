@@ -34,7 +34,7 @@ Information Systems Frontiers 2014, [A cost-aware auto-scaling approach using th
 
 Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-intensive containerized applications](https://link.springer.com/article/10.1007/s10586-018-02890-1)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/574775706)
 
-ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)---Notes:[zhihub](https://zhuanlan.zhihu.com/p/490113313)
+ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/490113313)
 
 ## Survey:
 
