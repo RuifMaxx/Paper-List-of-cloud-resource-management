@@ -7,6 +7,7 @@ Q: 同一个任务$c_i, g_i$是否不变？
 A: 不一定不变，根据贪心算法挑选最优
 
 Q: 对调度算法的解释
+
 $$
 \begin{gathered}
 \text { minimize }: \sum_j^m\left(\beta C_j+G_j\right) y_j \\
