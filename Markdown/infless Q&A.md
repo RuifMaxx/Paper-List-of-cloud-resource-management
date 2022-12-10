@@ -23,7 +23,12 @@ $$
 
 A: 贪心算法
 
-* 评价指标$e_{i j}=\frac{\text { RPS } / \text { resource }}{\text { fragmentation }}=\frac{r_{u p} /\left(\beta c_i+g_i\right)}{1-\left(\beta c_i+g_i\right) /\left(\beta C_j+G_j\right)} $ ，综合考虑资源效率和资源碎片率
+* 评价指标综合考虑资源效率和资源碎片率
+
+$$
+e_{i j}=\frac{\text { RPS } / \text { resource }}{\text { fragmentation }}=\frac{r_{u p} /\left(\beta c_i+g_i\right)}{1-\left(\beta c_i+g_i\right) /\left(\beta C_j+G_j\right)} 
+$$
+
 * 系统的输入变量含有$R_k = R-R_{max}$和$B$, $B$ 是可能的$batchsize$
 * 优化的决策变量包括副本数$n_k$, 批处理大小$b_i$, CPU资源$c_i$, GPU资源 $g_i$，$x_{ij}$（第$i$个任务放在第$j$个服务器上）。
 * 算法的核心是遍历所有的资源配置组合$<c_i,g_i,b>$和放置机器策略$x_{ij}$，根据评价指标$e_{ij}$选择最好的配置方式，这里假设机器同构
