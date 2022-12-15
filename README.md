@@ -26,6 +26,12 @@ Usenix ICAC 2014, [Adaptive, Model-driven Autoscaling for Cloud Applications](ht
 
 TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
 
+ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/490113313), [PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/infless.pptx), [Q&A](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/Markdown/infless%20Q%26A.md)
+
+Infocom 2022，[Retention-Aware Container Caching for Serverless Edge Computing](https://ieeexplore.ieee.org/document/9796705)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/Retention-Aware%20Container%20Caching%20for%20Serverless%20Edge%20Computing.pptx)
+
+Infocom 2022，[StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows](https://fangmingliu.github.io/files/INFOCOM22-serverless.pdf)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/StepConf.pptx)
+
 ## Analyze
 
 SOCC 2021, [SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/SHOWAR%20Right-Sizing%20And%20Efficient%20Scheduling%20of%20Microservices.pptx)
@@ -34,11 +40,7 @@ Information Systems Frontiers 2014, [A cost-aware auto-scaling approach using th
 
 Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-intensive containerized applications](https://link.springer.com/article/10.1007/s10586-018-02890-1)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/574775706)
 
-ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/490113313), [PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/infless.pptx), [Q&A](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/Markdown/infless%20Q%26A.md)
-
-Infocom 2022，[Retention-Aware Container Caching for Serverless Edge Computing](https://ieeexplore.ieee.org/document/9796705)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/Retention-Aware%20Container%20Caching%20for%20Serverless%20Edge%20Computing.pptx)
-
-Infocom 2022，[StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows](https://fangmingliu.github.io/files/INFOCOM22-serverless.pdf)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/StepConf.pptx)
+ASPLOS 2019, [PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services](https://sc2682cornell.github.io/publication/parties/)---[Notes](https://nbjl.nankai.edu.cn/2020/0427/c12124a270196/page.htm)
 
 ## Survey:
 
