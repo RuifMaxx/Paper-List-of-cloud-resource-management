@@ -36,6 +36,10 @@ Cluster Computing 2019, [A study on performance measures for auto-scaling CPU-in
 
 ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/490113313), [PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/infless.pptx), [Q&A](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/Markdown/infless%20Q%26A.md)
 
+Infocom 2022，[Retention-Aware Container Caching for Serverless Edge Computing](https://ieeexplore.ieee.org/document/9796705)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/Retention-Aware%20Container%20Caching%20for%20Serverless%20Edge%20Computing.pptx)
+
+Infocom 2022，[StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows](https://fangmingliu.github.io/files/INFOCOM22-serverless.pdf)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/StepConf.pptx)
+
 ## Survey:
 
 ACM Comput. Surv. 2018, [Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey](https://dl.acm.org/doi/10.1145/3148149)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/557889153)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
