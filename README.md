@@ -56,6 +56,8 @@ SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocatio
 
 ## To Read:
 
+Socc 2021, [Faa$T: A Transparent Auto-Scaling Cache for Serverless Applications](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/socc2021.pdf)
+
 IEEE CLOUD 2022, [Automated Configuration for Agile Software Environments](https://ieeexplore.ieee.org/document/9860602)
 
 M. Carvalho and D. F. Macedo. 2021. QoE-Aware Container Scheduler for Co-located Cloud Environments. In 2021 IFIP/IEEE Int. Symposium on Integrated Network Management (IM). 286ś294.
