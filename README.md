@@ -26,11 +26,6 @@ Usenix ICAC 2014, [Adaptive, Model-driven Autoscaling for Cloud Applications](ht
 
 TPDS 2022, [Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications](https://ieeexplore.ieee.org/document/9714008/)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/564682407)
 
-ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)---Notes:[zhihu](https://zhuanlan.zhihu.com/p/490113313), [PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/infless.pptx), [Q&A](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/Markdown/infless%20Q%26A.md)
-
-Infocom 2022，[Retention-Aware Container Caching for Serverless Edge Computing](https://ieeexplore.ieee.org/document/9796705)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/Retention-Aware%20Container%20Caching%20for%20Serverless%20Edge%20Computing.pptx)
-
-Infocom 2022，[StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows](https://fangmingliu.github.io/files/INFOCOM22-serverless.pdf)---Notes:[PPTX](https://github.com/RuifMaxx/Paper-List-of-cloud-resource-management/blob/main/PPTX/StepConf.pptx)
 
 ## Analyze
 
@@ -55,10 +50,6 @@ OSDI 2016, [Morpheus: Towards Automated SLOs for Enterprise Clusters](https://ww
 SOSP 2021, [RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://research.facebook.com/publications/ras-continuously-optimized-region-wide-datacenter-resource-allocation/) ---video:[bilibili](https://www.bilibili.com/video/BV1Kf4y13715/?vd_source=903ff08588b90a29f9c0626c08eb9671)---Notes:[PPTX](https://github.com/RuifMaxx/Cloud-resource-management/blob/main/PPTX/RAS%20Continuously%20Optimized%20RegionWide%20Datacenter%20Resource%20Allocation.pptx)
 
 ## To Read:
-
-SOCC 2021, [Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines](https://web.stanford.edu/~faromero/llama.pdf)
-
-SOCC 2021, [Faa$T: A Transparent Auto-Scaling Cache for Serverless Applications](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/socc2021.pdf)
 
 IEEE CLOUD 2022, [Automated Configuration for Agile Software Environments](https://ieeexplore.ieee.org/document/9860602)
 
